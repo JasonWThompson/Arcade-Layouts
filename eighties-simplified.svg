@@ -33,7 +33,7 @@
      units="in"
      inkscape:window-width="3840"
      inkscape:window-height="2081"
-     inkscape:window-x="3831"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1" />
   <metadata
@@ -147,5 +147,61 @@
        height="187.15921"
        x="139.7067"
        y="0.0066952752" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0761997;stroke-linejoin:round;stroke-miterlimit:2.61313"
+       id="path6315"
+       cx="10.038176"
+       cy="33.660099"
+       rx="1.9999839"
+       ry="2" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0761997;stroke-linejoin:round;stroke-miterlimit:2.61313"
+       id="path6315-8"
+       cx="10.038084"
+       cy="153.36005"
+       rx="1.9999839"
+       ry="2" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0761997;stroke-linejoin:round;stroke-miterlimit:2.61313"
+       id="path6315-9"
+       cx="129.7372"
+       cy="153.36005"
+       rx="1.9999839"
+       ry="2" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0761997;stroke-linejoin:round;stroke-miterlimit:2.61313"
+       id="path6315-95"
+       cx="129.7372"
+       cy="33.660099"
+       rx="1.9999839"
+       ry="2" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0761997;stroke-linejoin:round;stroke-miterlimit:2.61313"
+       id="path6315-3"
+       cx="149.73706"
+       cy="33.660099"
+       rx="1.9999839"
+       ry="2" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0761997;stroke-linejoin:round;stroke-miterlimit:2.61313"
+       id="path6315-8-6"
+       cx="149.73697"
+       cy="153.36005"
+       rx="1.9999839"
+       ry="2" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0761997;stroke-linejoin:round;stroke-miterlimit:2.61313"
+       id="path6315-9-9"
+       cx="269.43613"
+       cy="153.36005"
+       rx="1.9999839"
+       ry="2" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0761997;stroke-linejoin:round;stroke-miterlimit:2.61313"
+       id="path6315-95-3"
+       cx="269.43613"
+       cy="33.660099"
+       rx="1.9999839"
+       ry="2" />
   </g>
 </svg>
