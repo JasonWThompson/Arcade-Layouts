@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="139.7mm" height="186.944mm" viewBox="0 0 139.7 186.94402" version="1.1" id="svg1496" inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)" sodipodi:docname="fighter-buttons-module.svg">
+  <defs id="defs1490" />
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#0000ff" borderopacity="1" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.979899" inkscape:cx="691.31275" inkscape:cy="316.92673" inkscape:document-units="in" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" units="mm" inkscape:window-width="3840" inkscape:window-height="2081" inkscape:window-x="3831" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:showpageshadow="false" showguides="true" inkscape:guide-bbox="true" />
+  <metadata id="metadata1493">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <g id="g89">
+      <path id="rect16" style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linejoin:round;stroke-miterlimit:2.61313;stroke-dasharray:none" d="m 127.00001,0 c 7.0358,0 12.7,5.6642009 12.7,12.700001 V 174.24416 c 0,7.0358 -5.6642,12.7 -12.7,12.7 H 0 V 0 Z" />
+      <circle style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linejoin:round;stroke-miterlimit:2.61313;stroke-dasharray:none" id="path895-1" cx="-10.950104" cy="10.950104" r="4.6000004" transform="scale(-1,1)" />
+      <circle style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linejoin:round;stroke-miterlimit:2.61313;stroke-dasharray:none" id="path895-5" cx="-10.950104" cy="175.99411" r="4.6000004" transform="scale(-1,1)" />
+      <circle style="fill:none;stroke:#000000;stroke-width:0.076;stroke-linejoin:round;stroke-miterlimit:2.61313;stroke-dasharray:none" id="path873" cx="-131.70001" cy="-155.32211" r="2" transform="scale(-1)" />
+      <circle style="fill:none;stroke:#000000;stroke-width:0.076;stroke-linejoin:round;stroke-miterlimit:2.61313;stroke-dasharray:none" id="path873-0" cx="-7.9999995" cy="-155.32211" r="2" transform="scale(-1)" />
+      <circle style="fill:none;stroke:#000000;stroke-width:0.076;stroke-linejoin:round;stroke-miterlimit:2.61313;stroke-dasharray:none" id="path873-9" cx="-7.9999995" cy="-31.622116" r="2" transform="scale(-1)" />
+      <circle style="fill:none;stroke:#000000;stroke-width:0.076;stroke-linejoin:round;stroke-miterlimit:2.61313;stroke-dasharray:none" id="path873-4" cx="-131.70001" cy="-31.622116" r="2" transform="scale(-1)" />
+      <ellipse style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linejoin:round;stroke-miterlimit:2.61313;stroke-dasharray:none" id="path895-1-9" cx="-128.75" cy="10.9501" transform="scale(-1,1)" rx="4.5999002" ry="4.6000004" />
+      <circle style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linejoin:round;stroke-miterlimit:2.61313;stroke-dasharray:none" id="path895-1-3" cx="-128.75011" cy="175.99411" r="4.6000004" transform="scale(-1,1)" />
+      <g id="g347" transform="translate(41.252143,-2.6112895)">
+        <path d="m -13.322712,68.127346 c 8.4168191,0 15.2400001,6.823181 15.2400001,15.240001 0,8.416784 -6.823181,15.24 -15.2400001,15.24 -8.416785,0 -15.240001,-6.823216 -15.240001,-15.24 0,-8.41682 6.823216,-15.240001 15.240001,-15.240001 z" style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" id="path1900" />
+        <path d="m 26.851587,50.812942 c 8.41682,0 15.240001,6.823181 15.240001,15.24 0,8.416784 -6.823181,15.240001 -15.240001,15.240001 -8.416784,0 -15.24,-6.823217 -15.24,-15.240001 0,-8.416819 6.823216,-15.24 15.24,-15.24 z" style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" id="path1904" />
+        <path d="m 70.518387,51.55374 c 8.416819,0 15.24,6.823181 15.24,15.24 0,8.416784 -6.823181,15.240001 -15.24,15.240001 -8.416785,0 -15.239895,-6.823217 -15.239895,-15.240001 0,-8.416819 6.82311,-15.24 15.239895,-15.24 z" style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" id="path1908" />
+        <path d="m -13.322712,110.87385 c 8.4168191,0 15.2400001,6.82319 15.2400001,15.24 0,8.41679 -6.823181,15.24001 -15.2400001,15.24001 -8.416785,0 -15.240001,-6.82322 -15.240001,-15.24001 0,-8.41681 6.823216,-15.24 15.240001,-15.24 z" style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" id="path1912" />
+        <path d="m 26.851587,93.55945 c 8.41682,0 15.240001,6.82318 15.240001,15.24 0,8.41678 -6.823181,15.24 -15.240001,15.24 -8.416784,0 -15.24,-6.82322 -15.24,-15.24 0,-8.41682 6.823216,-15.24 15.24,-15.24 z" style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" id="path1916" />
+        <path d="m 70.518387,94.300248 c 8.416819,0 15.24,6.823182 15.24,15.240002 0,8.41678 -6.823181,15.24 -15.24,15.24 -8.416785,0 -15.239895,-6.82322 -15.239895,-15.24 0,-8.41682 6.82311,-15.240002 15.239895,-15.240002 z" style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" id="path1920" />
+      </g>
+    </g>
+  </g>
+</svg>
